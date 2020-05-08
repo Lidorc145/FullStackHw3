@@ -1,0 +1,20 @@
+.weatherForm{
+    text-align: center;
+}
+.weatherResults{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    text-shadow: 1px 1px #ffffff;
+    font-weight: bold;
+}
+p.descreptionText{
+    text-transform: uppercase;
+}
+p.tempText{
+    font-size: xx-large;
+}
+body{
+    background-repeat: no-repeat, no-repeat;
+    background-size: cover;
+}

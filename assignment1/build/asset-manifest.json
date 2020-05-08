@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FullStackHw3/build/static/css/main.026d346c.chunk.css",
+    "main.js": "/FullStackHw3/build/static/js/main.f4886da0.chunk.js",
+    "main.js.map": "/FullStackHw3/build/static/js/main.f4886da0.chunk.js.map",
+    "runtime-main.js": "/FullStackHw3/build/static/js/runtime-main.aaa01ab0.js",
+    "runtime-main.js.map": "/FullStackHw3/build/static/js/runtime-main.aaa01ab0.js.map",
+    "static/js/2.d94b74bf.chunk.js": "/FullStackHw3/build/static/js/2.d94b74bf.chunk.js",
+    "static/js/2.d94b74bf.chunk.js.map": "/FullStackHw3/build/static/js/2.d94b74bf.chunk.js.map",
+    "index.html": "/FullStackHw3/build/index.html",
+    "precache-manifest.bede8a6746bcf10e452539abcc07255c.js": "/FullStackHw3/build/precache-manifest.bede8a6746bcf10e452539abcc07255c.js",
+    "service-worker.js": "/FullStackHw3/build/service-worker.js",
+    "static/css/main.026d346c.chunk.css.map": "/FullStackHw3/build/static/css/main.026d346c.chunk.css.map",
+    "static/js/2.d94b74bf.chunk.js.LICENSE.txt": "/FullStackHw3/build/static/js/2.d94b74bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aaa01ab0.js",
+    "static/js/2.d94b74bf.chunk.js",
+    "static/css/main.026d346c.chunk.css",
+    "static/js/main.f4886da0.chunk.js"
+  ]
+}
