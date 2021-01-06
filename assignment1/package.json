@@ -4,7 +4,7 @@
   "homepage": "https://lidorc145.github.io/FullStackHw3/assignment1/build/",
   "private": true,
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "country-data": "0.0.31",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
